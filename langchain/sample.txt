@@ -1,0 +1,148 @@
+﻿Emails: Devendra.kush@yahoo.com
+Cell: +1 (502) 651-0852
+Current Location: 7416 Marchand Lane charlotte, NC 28262 (ready to reallocate)
+	
+PROFILE SUMMARY	
+I am a motivated, results-oriented individual with an extensive background in .NET development and the expertise necessary to take initiative and lead your next project to its successful conclusion. At my previous company, I mainly worked on the development of new software systems using .Net Core, EF core, Microservices, Jquery, HTML, CSS, Bootstrap, KendoUI, Angular, React, C#, python and SQL. Besides that, I managed and updated existing products while providing technical support to my coworkers. I’ve also helped improve programming procedures, resulting in a 15% improvement in the effectiveness of the entire software development process.
+
+EDUCATION/CERTIFICATION	
+2022: MTech from BITS PILANI, India
+2009: B-Tech Uttar Pradesh Technical University, India.
+2003: 12th from GNK inter collage Jhansi, India.
+2001: 10th from St. Mary Jhansi, India.
+TECHNICAL SKILLS	
+Framework	Microsoft .NET 8
+Analytics Tools	Adobe Analytics Tagging, Jupiter Notebook, Anaconda
+Development Tools	Visual Studio 2022, Visual Studio Code, SQL Server 2012
+Languages 	C#, VB, Python
+Technologies	Razor, Blazor, SignalR, LINQ, ADO, Entity Framework Core, Single Page Application
+Scripting	JavaScript, JQuery, JSON, PowerShell, Type Script
+Messaging Queue	Rabbit MQ, MSMQ, KAFKA, SOLACE
+UI Technologies	React 18, Angular 18, KendoUI, HTML, HTML5, CSS, CSS5, Bootstrap
+API and Services	Web API, WCF, Microservices, REST, SOAP Web services,
+Version Controls	TFS, SVN, GIT (on-prem, cloud)
+Development Tools	SAFe SCRUM, Agile development, Jira, Azure Board
+Cache	Redis, Cookies, Persistent Volume, Browser Cache, Server Cache
+Identity provider & Tools	OAUTH 2.0, PING Federate, JWT, TLS, MTLS
+Reverse Proxy	AVI load balancer, APIGEE
+Observability	Splunk, Grafana, APP Dynamics (APM), Elastic APM
+Domain and CMS	Insurance, Finance
+Cloud and Tools	AWS, Azure, Red Hat-Open Shift, PCF, Azure functions, Secret Vaults, Docker, K8 (Kuber-natives), AWS-S3 (Object Storage), OpenShift Clusters
+CI/CD	Harness, EPLX-GIT hub actions, UCD, EPL-Jenkins, Artifactory, HELM
+Checks/Scan	SonarQube, Blackduck, Thread-fix, Tufflehog
+
+PROFESSIONAL WORK EXPERIENCE	
+Wells Fargo (Payroll: Object on Net Inc)					May 2023 – Till Date
+Consultant (Lead Software Developer)
+
+	Migrate WCF/WEB API into REST API as per Wells Fargo WIM API Modernization standard.
+	Migrate .aspx/.cshtml views to ANGULAR 18 reusable components.
+	Develop RXJS and reactive programming with State Management solution(NgRx).
+	Redesign UI using Angular Material/Bootstrap.
+	Perform CLI upgrade from 14 to 18.
+	Refactor forms, routes, services or components as needed.
+	Use react-virtualization to increase application response time.
+	Build reusable components and front-end library.
+	Build CI/CD pipeline with help of Dev-ops team and streamline integration and deployment using GithubActions, Harness, HELM, Docker & Kubernetes.
+	Designed stored procedures to validate and transfer spreadsheet invoices data into database. 
+	Leading, mentoring, motivate, provide recognition and guiding other developers.
+	Creating and maintaining proper documents throughout the various phases of software development life cycle such as - Requirement gatherings, Project estimation and planning, Low level design, Risk identification and Mitigation, Testing and Deployment 
+Project Name: Snapshot Management System
+Project Description: Snapshot is a data analysis and reporting tool which receive feeds from Intellimatch and show data to its user based on selected criteria. This tool contains ability to transform data using maintenance functionality.
+Technology stack: Visual Studio, Kafka, SQL, TFS, ADO.Net, EF core, .Net 8, C#, LINQ, SQL 2012 R2, Responsive Design, SCRUM, MVC, WEB API, Microservices, Splunk, React js(WF Custom component, redux), Pivotal cloud foundry, AWS, Azure, Open shift, Kubernatives, SPLUNK, APP dynamics, APIGEE, PING Federate, GIT, Jenkins, Harness, UCD, Type Script 5, Java script etc.
+
+Project Name: Wealth & Investment Management (WIM API Modernization)
+Project Description: WIM API modernization is migration of WCF services into .Net 6 framework using Domain Driven Design and ROA standards. 
+Intention of this project is to decompose monolithic services into microservices so that it can be light weighted and consumers can be benefitted using this in term of portability, maintainability, accessibility, security, integrity and performance.
+Technology stack: Visual Studio, Solace, Kafka, Rabbit MQ, MSMQ, Oracle, TFS, MS SQL,ADO.Net, .Net 6, .Net Core, C#, LINQ, SQL 2012 R2, Responsive Design, SCRUM, MVC, WEB API, Microservices, Splunk, Redis, Pivotal cloud foundry, SPLUNK, APP dynamics, APIGEE, PING Federate, Azure, Harness, Java, Spring Boot, UCD, KAFKA, Angular 18, Type Script 5 etc.
+
+Bank Of New York Mellon						Sep 2021 – Apr 2023
+Team Lead (Full stack developer).
+Develop, Design, Estimate, Deploy, Requirement gathering, Automation of Product.
+
+	Overseeing the smooth execution throughout the development of new features in CTT Loan Data Services.
+	Create Angular component, Content Projection, Inject Service Dependency, change DOM Properties using Template Querying, create observables using Subscribe Event etc.
+	As a part of SCRUM, Responsible for facilitating the team, obtaining resources for it, and protecting it from problems.
+	Help the team overcome a difficult problem and to transfer their skills to one or more developers on the team.
+	Design\Develop application Visual Studio and Handle whole application development including UI, Business logic & DB interactions.
+	Fix Ad-hoc issues in the shortest possible turnaround time.
+	Conduct thorough unit testing for the whole system.
+	Conduct peer-reviews and lead reviews and provide feedback.
+	Core member of team that evaluates new technology options and implementations. 
+	Designed stored procedures to validate and transfer spreadsheet invoices data into database. 
+	Leading, mentoring, motivate, provide recognition and guiding other developers.
+	Creating and maintaining proper documents throughout the various phases of software development life cycle such as - Requirement gatherings, Project estimation and planning, Low level design, Risk identification and Mitigation, Testing and Deployment 
+
+Project Name: CTT Loan Data services (Automatic Trade Entry)
+Project Description: Credit Strategies that invest in the loan asset class can be complex, so the key to your success is partnering with an independent administrator that fully understands loans and the challenges they can present.
+When you partner with BNY Mellon, we solve for the operational challenges of syndicated loans and other Over-the-Counter (OTC) instruments. We have the global reach and intellectual capital to develop financial tools that can be seamlessly incorporated into your investment strategy.
+
+Technology stack: Visual Studio, TFS, MS SQL, .Net 4.5, .Net Core, HTML, C#, JQuery, HTML 5, CSS, LINQ, SQL 2012 R2, Responsive Design, SCRUM, MVC, WEB API, Microservices, SSRS/SSIS, Angular 14 etc.
+
+Larsen & Toubro Infotech 						       Dec 2013 – Sep 2021
+Technical Specialist in L&T InfoTech, developing Product for L&T InfoTech clients. Mostly involve in Full Stack development in VB, Insurity Workbench, Policy decisions, C#, ASP.NET MVC, .Net Core, KendoUI, Bootstrap, WCF, Microservices Web API and MS SQL.
+
+	Overseeing the smooth execution throughout the development of new features in Insurity’s Products as Technical Lead of the solution
+	Understand client requirement and designed wireframe. 
+	Interaction with on-site client to gather the requirements & provide effort estimation.
+	As a part of SCRUM, Responsible for facilitating the team, obtaining resources for it, and protecting it from problems.
+	Help the team overcome a difficult problem and to transfer their skills to one or more developers on the team.
+	Design\Develop application using App Factory Workbench (Insurity In-house Tool) and Handle whole application development including UI, Business logic & DB interactions.
+	Fix Ad-hoc issues in the shortest possible turnaround time.
+	Conduct thorough unit testing for the whole system.
+	Conduct peer-reviews and lead reviews and provide feedback.
+	Core member of team that evaluates new technology options and implementations. 
+	Designed stored procedures to validate and transfer spreadsheet invoices data into database. 
+	Leading, mentoring, motivate, provide recognition and guiding other developers.
+	Comprehend the use of LTI inhouse tool FAST Framework, PDF-Diff, XL-Sync, XML Comparator and create Proof of concept (POC) to automate Quality Analyst redundant work.
+	Building automation tools for helping client in improving overall efficiency and productivity.
+	Regular interaction with the Client for discussion on developing algorithms. Also interact with editors, Technical Managers, System Administration experts, Quality Assurance people – all belonging to different departments and divisions. 
+	Creating and maintaining proper documents throughout the various phases of software development life cycle such as - Requirement gatherings, Project estimation and planning, Low level design, Risk identification and Mitigation, Testing and Deployment 
+
+Project Name: Truist-Premium Finance (My AFCO)
+Project Description: BB&T's premium finance units, AFCO and Prime Rate Premium Finance, in the United States, and CAFO in Canada, provide loans which enable businesses and consumers to pay their insurance costs over time, improving cash flow and providing additional credit and working capital.
+Technology stack: .Net Core, C#.Net, REST Web API, Microservices, Sql Server, Telerik Controls(Kendo UI), ASP.Net Core, Swagger, Design Patterns, Dependency Injection, Resharper, GIT, JIRA, PostMan, Html5, CSS3 , StyleCorp, Log4Net, ImageRight, Bootstrap, Rabbit MQ, Adobe Analytic Tagging.
+
+Project Name: Truist ( IHOP – One AFCO)
+Project Description: BB&T’s aka Truist premium finance units, AFCO and Prime Rate Premium Finance, in the United States, provide loans which enable businesses and consumers to pay their insurance costs over time, improving cash flow and providing additional credit and working capital. AFCO offer corporate clients an efficient means to finance their insurance premium expenses. In doing so, company can tap the true potential of the insurance asset and access additional working capital for business growth or income producing purposes. AFCO offer insurance agents/brokers/producers reliable funding mechanisms, consistent underwriting decisions and extensive legal/compliance knowledge of state statutes, and federal regulations.
+Technology stack: Visual Studio, TFS, MS SQL, .Net 4.5, knockoutJS, Durandal, HTML, Workbench 2.0, C#, JQuery, Kendo, HTML 5, CSS, LINQ, SQL 2012 R2, Responsive Design, SCRUM, MVC, WEB API, WCF.
+Project Name: Insurity- Claim Decisions\Refresh
+Project Description: Claims Decisions\Refresh is a complete claims administration system. For all standard property and casualty as well as specialty and custom lines of business, it may be the most valuable item in claims toolbox. Claims Decisions improves the speed and quality of claims handling, resulting in reduced expense and a better experience for policyholders. It easy integration with third-party systems puts the power of data into our clients hands, speeding up the claims organization’s ability to make informed decisions. When multiple people are involved in claims, from auditors to investigators, specialists and regulators, Claims Decisions connects them all, enhancing communication and collaboration.	
+Technology stack: Visual Studio, TFS, MS SQL, .Net 4.5, knockoutJS, Durandal, HTML, Workbench 2.0, C#, JQuery, Kendo, HTML 5, CSS, LINQ, SQL 2012 R2, Responsive Design, SCRUM, MVC, WEB API, WCF.
+Project Name: Insurity -Data House (Insurance Enterprise View)
+Project Description: Insurance Enterprise View (IEV) is an Insurity’s enterprise application integration (EAI) platform focused on data integration for the insurance industry. IEV provides data acquisition, data aggregation, and data representation capabilities that promote unrestricted sharing of information among business processes within an organization, and that facilitate rapid, cost-effective, system-modernization approaches. 
+Technology stack: ASP.NET 2.0, 3.5(C#, VB), Kendo, PL/SQL SQL Server 2008 R2, SQL Server Reporting/Integration Services 2005 & 2008.
+Visual Studio 2008, SQL Server Management Studio 2008 R2, SQL server business intelligence development studio.
+Project Name: Insurity -Policy Decisions
+Project Description: Policy Decisions is a state-of-the-art policy administration system that leverages a robust policy processing platform with rich core content and functionality. It supports the full policy lifecycle for all commercial, workers comp, personal, specialty, program and proprietary lines of business.
+Technology stack: ASP.NET 2.0, 3.5(C#, VB), Visual Studio 2008, SQL Server Management Studio 2008 R2, NGA Framework.
+Project Name: Insurity -Commercial Agent
+Project Description: Commercial Agent is an application which is basically develop to create policies in short period of time.
+Despite Policy decisions, it will take more time to create small policies because we need to fill/navigate redundant screen.
+So Insurity introduce Commercial Agent to create policy faster than legacy system
+Technology stack: MVC, Web services, ASP.NET 2.0, 3.5(C#, VB), Visual Studio 2008, SQL Server Management Studio 2008 R2. JQuery, JavaScript, HTML, Bootstrap, CSS, NGA Framework.
+
+
+SunGard Solutions India Pvt Ltd					Aug 2013 – Dec 2013 Product Engineer at SunGard Solutions India Pvt Ltd.
+Developing Phase 3 middle Office product that gives you the ability to process equities, fixed income and foreign exchange for any currency on domestic and international markets 
+
+	Enhance/Develop the functionality based on requirement given by BA.
+	Fix Ad-hoc issues in the shortest possible turnaround time.
+	Build and deployed the code on UAT.
+	Unit testing of developments/enhancements.
+
+Project Name: Phase 3
+Project Description: Stream Phase3 Middle Office gives you the ability to process equities, fixed income and foreign exchange for any currency on domestic and international markets. You can also set up commission schedules, show charges on the confirm for non-dollar markets, quickly produce confirms according to each client’s preference, and even handle each market’s fees and taxes.
+
+Technology stack: ASP.NET 2.0, 3.5(C#, VB), SQL Server 2008 R2, SQL Server Reporting Services 2005 & 2008.
+Visual Studio 2008, SQL Server Management Studio 2008 R2, SQL server business intelligence development studio.
+
+
+Aloha Technology Pvt. Ltd.						 Oct 2010 – Aug 2013
+Project Name: Parenta 1.0 & 2.0
+	Enhance/Develop the functionality based on requirement given by BA.
+	Fix Ad-hoc issues in the shortest possible turnaround time.
+	Build and deployed the code on UAT.
+	Unit testing of developments/enhancements.
+Technology stack: HTML, C# 2.0, ASP.NET 3.0, Java Script, AJAX and EXT JS, Visual Studio 2008, SQL Server Management Studio 2008 R2, SQL server business intelligence development studio.
+
